@@ -1,10 +1,10 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
+<img src="/images/fulls/03.jpg" class="fit image"> I think it is very important for students to know what kind of learner they are. We need to know about it so I am going to talk about how I learned at school and home, what the hardest and easiest tasks are for me and how I can succeed at university.
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
+When I learn something from school and home, I usually focus on visible things that I can watch or read. For example, in school, I always prefer to sit in front of a teacher and try to keen eye contact because it is easy to pay attention to the teacher’s lecture or visual things such as a PPT or a video.
 
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
+Another key of my learning style is taking notes. It is a very important thing for me. When I watch a lecture, I always take notes with highlighters, circling words and underlining. Even if subjects are hard to understand or confusing, once I make notes in my own style I can easily comprehend and remember.
 
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+It is very effective for me.
