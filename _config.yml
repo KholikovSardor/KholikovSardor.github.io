@@ -1,5 +1,5 @@
 locale: "en-US"
-title: Hello, Welcome to my website! I`m Sardor 
+title: Sardor Kholikov
 url: "http://kholikovsardor.github.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
 author:
   name: Kholikov Sardor
   email: sardor.kholikov.2001@gmail.com
-  twitter: # twitter username without the @ symbol
+  twitter: Sardor Kholikov
 
 # Social details for the jekyll-seo-tag gem
 social:
